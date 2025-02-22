@@ -1,4 +1,3 @@
-import os
 from dotenv import load_dotenv
 import datetime
 from crewai import Agent, Task, Crew
@@ -12,7 +11,7 @@ def product_manager_agent():
     return Agent(
         role='Senior Product Manager',
         goal='Conduct thorough product research on given topics',
-        backstory='You are a senior product manager at Google and OpenAI with deep understanding of software product development.',
+        backstory='You are a senior product manager at a big tech FAANG company with deep understanding of software product development.',
         verbose=True,
         allow_delegation=False,
         llm=llm
