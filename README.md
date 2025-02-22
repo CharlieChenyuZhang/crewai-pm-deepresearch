@@ -25,3 +25,7 @@ run the deep research agent where it would perform the online search and generat
 ```bash
 python deep_research.py
 ```
+
+# demo videl
+
+https://www.loom.com/share/0fbab4a7d3e446fa8b4991b0e6c784de?sid=f81c6b16-9bbb-42cc-a4fb-a8a9b8b7ab64
